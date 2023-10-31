@@ -1,0 +1,112 @@
+{
+  "unidades_de_medida": [
+    {
+      "id": 1,
+      "nombre": "Cajas"
+    },
+    {
+      "id": 2,
+      "nombre": "Metros"
+    },
+    {
+      "id": 3,
+      "nombre": "Centímetros"
+    },
+    {
+      "id": 4,
+      "nombre": "Unidades"
+    },
+    {
+      "id": 5,
+      "nombre": "Kilogramos"
+    },
+    {
+      "id": 6,
+      "nombre": "Litros"
+    }
+  ],
+  "proveedores": [
+    {
+      "id": 1,
+      "nombre": "Ferretería López",
+      "productos": [1, 2, 4, 6]
+    },
+    {
+      "id": 2,
+      "nombre": "Herramientas Martínez",
+      "productos": [1, 2, 5, 9]
+    },
+    {
+      "id": 3,
+      "nombre": "Materiales Rodríguez",
+      "productos": [3, 8]
+    },
+    {
+      "id": 4,
+      "nombre": "Suministros García",
+      "productos": [5, 7]
+    },
+    {
+      "id": 5,
+      "nombre": "ConstruHerramientas",
+      "productos": [6, 10]
+    },
+    {
+      "id": 6,
+      "nombre": "Materiales Express",
+      "productos": [7]
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pala",
+      "unidades_de_medida": [1, 4]
+    },
+    {
+      "id": 2,
+      "nombre": "Cables",
+      "unidades_de_medida": [2, 3]
+    },
+    {
+      "id": 3,
+      "nombre": "Martillo",
+      "unidades_de_medida": [4]
+    },
+    {
+      "id": 4,
+      "nombre": "Destornillador",
+      "unidades_de_medida": [4]
+    },
+    {
+      "id": 5,
+      "nombre": "Tornillos",
+      "unidades_de_medida": [1, 4]
+    },
+    {
+      "id": 6,
+      "nombre": "Sierra",
+      "unidades_de_medida": [4]
+    },
+    {
+      "id": 7,
+      "nombre": "Cinta Métrica",
+      "unidades_de_medida": [2, 3]
+    },
+    {
+      "id": 8,
+      "nombre": "Clavos",
+      "unidades_de_medida": [5]
+    },
+    {
+      "id": 9,
+      "nombre": "Pintura",
+      "unidades_de_medida": [6]
+    },
+    {
+      "id": 10,
+      "nombre": "Llave Inglesa",
+      "unidades_de_medida": [4]
+    }
+  ]
+}
